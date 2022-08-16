@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Vitor-HenriqueAS/order-summary-component
-- Live Site URL: https://vitor-henriqueas.github.io/qr-code-component/
+- Live Site URL: https://vitor-henriqueas.github.io/order-summary-component/
 
 ## Author
 
