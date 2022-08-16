@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Screenshot
 
-
+![order-summary-component-img](https://user-images.githubusercontent.com/92743903/184948607-67d36a43-b395-4ea6-805a-1132a322bb39.png)
 
 ## Author
 
